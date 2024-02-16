@@ -1,4 +1,5 @@
 # PS2 いちご100% converter
+https://azuco.sakura.ne.jp/column/ag_ps2i100p/  
 rev.2007/05/09  
   
 使い方  
